@@ -162,3 +162,9 @@ cython_debug/
 #.idea/
 
 *.min.*
+.vscode
+*-min.html
+*-merge.html
+merge.html
+out.html
+*.zip

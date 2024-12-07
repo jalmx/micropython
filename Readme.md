@@ -12,3 +12,5 @@
 
 - `pip install python-minifier` ->   `pyminify example.py --output example.min.py`
   - <https://dflook.github.io/python-minifier/>
+
+- `pip install htmlmin`: to minify html -> `htmlmin input.html output.html`

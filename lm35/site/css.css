@@ -1,0 +1,26 @@
+html {
+    font-family: sans-serif;
+    margin: 0px auto;
+    text-align: center;
+    background-color: black;
+}
+
+h1 {
+    color: #5c91f1;
+    padding: 2vh;
+}
+
+h2{
+    color:white;
+}
+p {
+    font-size: 1.5rem;
+    color:white;
+}
+strong{
+    color: red;
+}
+
+span{
+    color:green;
+}
