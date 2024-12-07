@@ -7,8 +7,8 @@ import gc
 
 gc.collect()
 
-SSID = "CLUB"
-PWD = "K8BXKUG4MFS"
+SSID = ""
+PWD = ""
 
 
 def do_connect():

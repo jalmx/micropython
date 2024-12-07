@@ -5,8 +5,8 @@ from machine import Pin, ADC
 from time import sleep_ms
 import gc
 
-SSID = "CLUB"
-PWD = "K8BXKUG4MFS"
+SSID = ""
+PWD = ""
 
 adc = ADC(35)
 temp = "-"
